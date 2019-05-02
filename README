@@ -41,7 +41,7 @@
 3. 启动测试
 
   ```
-  npm test
+  npm test xxx.test.js
   ```
 
 4. 工具安装
